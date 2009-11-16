@@ -7,7 +7,7 @@ R3versi
 Outline
 -------
 
-This is a Reversi Game that I wrote in my first year of college life.  It's a newbie's work, and the code is in a mass.
+This is a Reversi Game that I wrote in my first year of college life.  It's a newbie's work, and the code is in a mass, which is lack of comments.
 
 I'm not going to have any modification on this project; I just want to push this to the Internet.
 
@@ -40,7 +40,7 @@ An extension of [Dev-C++](http://www.bloodshed.net/devcpp.html) named [PDcurses]
 簡介
 ----
 
-這是我在大一寫的黑白棋遊戲，但寫得很雜亂就是了。
+這是我在大一寫的黑白棋遊戲，但寫得很雜亂就是了，甚至還沒寫註解(囧)。
 
 這個專案不會有任何的新修訂，我只是想把它放到網路上。
 
