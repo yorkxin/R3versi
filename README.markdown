@@ -28,7 +28,7 @@ How to build
 
 You need curses library, which is a bulit-in lib in Unix-like OS.  Just type `make' to build the game.
 
-An extension of [http://www.bloodshed.net/devcpp.html](Dev-C++) named [http://pdcurses.sourceforge.net/](PDcurses) is available via Dev-C++'s package manager.  If you want to build it in Win32, just install pdcurses package in Dev-C++, open the reversi.dev with Dev-C++, and hit "Build."
+An extension of [Dev-C++](http://www.bloodshed.net/devcpp.html) named [PDcurses](http://pdcurses.sourceforge.net/) is available via Dev-C++'s package manager.  If you want to build it in Win32, just install pdcurses package in Dev-C++, open the reversi.dev with Dev-C++, and hit "Build."
 
 --
 
@@ -61,4 +61,4 @@ An extension of [http://www.bloodshed.net/devcpp.html](Dev-C++) named [http://pd
 
 你要有 curses 的函式庫，這在 Unix-like 作業系統是內建的。打 make 就可以編譯了。
 
-當然 [http://www.bloodshed.net/devcpp.html](Dev-C++) 也有名叫 [http://pdcurses.sourceforge.net/](PDcurses) 的函式庫可以用，用套件管理器就可以安裝了。如果你要用 Dev-C++ 編譯的話，請先安裝 PDcurses 函式庫，接著開啟 reversi.dev 的專案檔，按下「編譯」就好了。
+當然 [Dev-C++](http://www.bloodshed.net/devcpp.html) 也有名叫 [PDcurses](http://pdcurses.sourceforge.net/)  的函式庫可以用，用套件管理器就可以安裝了。如果你要用 Dev-C++ 編譯的話，請先安裝 PDcurses 函式庫，接著開啟 reversi.dev 的專案檔，按下「編譯」就好了。
