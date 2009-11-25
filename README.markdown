@@ -3,7 +3,6 @@ R3versi
 
 *A Terminal Reversi Game*
 
-
 Outline
 -------
 
@@ -12,6 +11,8 @@ This is a Reversi Game that I wrote in my first year of college life.  It's a ne
 I'm not going to have any modification on this project; I just want to push this to the Internet.
 
 Just fork this if you want to improve this game.
+
+** WARNING ** The code is BUGGY, BAD-STRUCTURED and the Makefile is INCORRECTLY CONFIGURED.  *DO NOT* view this project a normal one, or even forking this project without fixing those issues; instead, study these code as a _BAD_ PROGRAMMING HABIT CASE.
 
 How to play
 -----------
@@ -58,6 +59,8 @@ Known Issue
 這個專案不會有任何的新修訂，我只是想把它放到網路上。
 
 如果你想要改就直接 fork 吧！
+
+**警告** 這程式有 _很多BUG_，_結構很爛_，且 Makefile 還 _寫錯_。**絕對不要** 把這個專案當做什麼範本，或直接 fork 卻沒有修正上述的問題。反之，請把這些程式碼當做一個**寫程式習慣很爛的案例**。
 
 怎麼玩
 ---
