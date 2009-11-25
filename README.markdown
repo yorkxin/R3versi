@@ -38,6 +38,11 @@ An extension of [Dev-C++](http://www.bloodshed.net/devcpp.html) named [PDcurses]
  4. Point to the pdcurses-XXXXXX.DevPak file that you've just downloaded and click "Open" button.
  5. Click [Next] and [Finish] buttons until wizard closes.
 
+Known Issue
+-----------
+
+ 1. When the player can't play any step, the game ends immediately.  However in the common rule, in this situation, it will become the turn of the opposite player.
+
 --
 
 中文說明
@@ -78,3 +83,8 @@ An extension of [Dev-C++](http://www.bloodshed.net/devcpp.html) named [PDcurses]
  3. 按下 Package Manager 左上角的 [Install] 按鈕
  4. 在開啟檔案的對話方塊中，選擇剛剛下載的 pdcurses-XXXXXX.DevPak
  5. 一直按 Next 和 Finish 就裝好了。
+
+已知問題
+-------
+
+ 1. 當一方無法下子的時候，整個遊戲會直接結束到計算分數的地方。但事實上在一般的規則裡，應該是輪到對方下子。
