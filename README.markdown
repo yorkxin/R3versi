@@ -30,6 +30,14 @@ You need curses library, which is a bulit-in lib in Unix-like OS.  Just type `ma
 
 An extension of [Dev-C++](http://www.bloodshed.net/devcpp.html) named [PDcurses](http://pdcurses.sourceforge.net/) is available via Dev-C++'s package manager.  If you want to build it in Win32, just install pdcurses package in Dev-C++, open the reversi.dev with Dev-C++, and hit "Build."
 
+## How to install PDcurses Package in Dev-C++
+
+ 1. Visit http://sourceforge.net/projects/devpaks/files/pdcurses/ and download the latest version of pdcurses-XXXXXX.DevPak
+ 2. Launch Package Manager, which might be located in [Start] / [All Programs] / [Bloodshed Dev-C++] / [Package Manager]. You can also double click the executable file C:\Dev-Cpp\Packman.exe
+ 3. Hit [Install] at the top-right corner of Package Manager window.
+ 4. Point to the pdcurses-XXXXXX.DevPak file that you've just downloaded and click "Open" button.
+ 5. Click [Next] and [Finish] buttons until wizard closes.
+
 --
 
 中文說明
@@ -62,3 +70,11 @@ An extension of [Dev-C++](http://www.bloodshed.net/devcpp.html) named [PDcurses]
 你要有 curses 的函式庫，這在 Unix-like 作業系統是內建的。打 make 就可以編譯了。
 
 當然 [Dev-C++](http://www.bloodshed.net/devcpp.html) 也有名叫 [PDcurses](http://pdcurses.sourceforge.net/)  的函式庫可以用，用套件管理器就可以安裝了。如果你要用 Dev-C++ 編譯的話，請先安裝 PDcurses 函式庫，接著開啟 reversi.dev 的專案檔，按下「編譯」就好了。
+
+## 用於 Dev-C++ 的 PDcurses Package 安裝方法
+
+ 1. 至 http://sourceforge.net/projects/devpaks/files/pdcurses/ 下載最新版本的 pdcurses-XXXXXX.DevPak。
+ 2. 開啟 Package Manager，在 [開始] → [所有程式] → [Bloodshed Dev-C++] → [Package Manager] ，或直接開 C:\Dev-Cpp\Packman.exe
+ 3. 按下 Package Manager 右上角的 [Install] 按鈕
+ 4. 在開啟檔案的對話方塊中，選擇剛剛下載的 pdcurses-XXXXXX.DevPak
+ 5. 一直按 Next 和 Finish 就裝好了。
