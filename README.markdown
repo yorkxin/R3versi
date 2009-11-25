@@ -32,7 +32,7 @@ An extension of [Dev-C++](http://www.bloodshed.net/devcpp.html) named [PDcurses]
 
 ## How to install PDcurses Package in Dev-C++
 
- 1. Visit http://sourceforge.net/projects/devpaks/files/pdcurses/ and download the latest version of pdcurses-XXXXXX.DevPak
+ 1. Visit (http://sourceforge.net/projects/devpaks/files/pdcurses/) and download the latest version of pdcurses-XXXXXX.DevPak
  2. Launch Package Manager, which might be located in [Start] / [All Programs] / [Bloodshed Dev-C++] / [Package Manager]. You can also double click the executable file C:\Dev-Cpp\Packman.exe
  3. Hit [Install] at the top-right corner of Package Manager window.
  4. Point to the pdcurses-XXXXXX.DevPak file that you've just downloaded and click "Open" button.
@@ -73,7 +73,7 @@ An extension of [Dev-C++](http://www.bloodshed.net/devcpp.html) named [PDcurses]
 
 ## 用於 Dev-C++ 的 PDcurses Package 安裝方法
 
- 1. 至 http://sourceforge.net/projects/devpaks/files/pdcurses/ 下載最新版本的 pdcurses-XXXXXX.DevPak。
+ 1. 至 (http://sourceforge.net/projects/devpaks/files/pdcurses/) 下載最新版本的 pdcurses-XXXXXX.DevPak。
  2. 開啟 Package Manager，在 [開始] → [所有程式] → [Bloodshed Dev-C++] → [Package Manager] ，或直接開 C:\Dev-Cpp\Packman.exe
  3. 按下 Package Manager 右上角的 [Install] 按鈕
  4. 在開啟檔案的對話方塊中，選擇剛剛下載的 pdcurses-XXXXXX.DevPak
